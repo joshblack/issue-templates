@@ -27,12 +27,11 @@ body:
       description:
         'How do we reproduce the error you described using the
         reproduction/example link above?'
-      value:
+      placeholder: |
         1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'
         4. See error
-      render: Markdown
     validations:
       required: true
   - type: input
