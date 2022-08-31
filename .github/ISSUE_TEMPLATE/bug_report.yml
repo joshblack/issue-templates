@@ -25,8 +25,7 @@ body:
     attributes:
       label: Steps to reproduce
       description:
-        'How do we reproduce the error you described using the
-        reproduction/example link above?'
+        'How do we reproduce the error you described above?'
       placeholder: |
         1. Go to '...'
         2. Click on '....'
